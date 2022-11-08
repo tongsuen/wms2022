@@ -1,0 +1,122 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+body {
+  margin:0;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+@font-face {
+  font-family: 'kanit-bold';
+  src: local('kanit-bold'), url(./resource/fonts/Kanit-Bold.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+@font-face {
+  font-family: 'kanit-medium';
+  src: local('kanit-medium'), url(./resource/fonts/Kanit-Medium.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+@font-face {
+  font-family: 'kanit-regular';
+  src: local('kanit-regular'), url(./resource/fonts/Kanit-Regular.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+@font-face {
+  font-family: 'kanit-semibold';
+  src: local('kanit-semibold'), url(./resource/fonts/Kanit-SemiBold.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+@font-face {
+  font-family: 'kanit-light';
+  src: local('kanit-light'), url(./resource/fonts/Kanit-Light.ttf) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+@font-face {
+  font-family: 'rockwell';
+  src: local('rockwell'), url(./resource/fonts/Rockwell.ttc) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+@font-face {
+  font-family: 'rockwell_2';
+  src: local('rockwell_2'), url(./resource/fonts/Rockwell_2.ttc) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+@font-face {
+  font-family: 'galvji';
+  src: local('galvji'), url(./resource/fonts/Galvji.ttc) format('truetype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.color-red {
+  color:#c8553e
+}
+.color-orange {
+  color: #f2903b;
+}
+.color-soft {
+  color: #fdd5c3;
+}
+.color-white {
+  color: #ffffff;
+}
+.color-green {
+  color: #598b8b;
+}
+.color-black {
+  color: #231f20;
+}
+.bg-red {
+  background-color:#c8553e
+}
+.bg-orange {
+  background-color: #f2903b;
+}
+.bg-soft {
+  background-color: #fdd5c3;
+}
+.bg-white {
+  background-color: #ffffff;
+}
+.bg-green {
+  background-color: #598b8b;
+}
+.bg-black {
+  background-color: #231f20;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

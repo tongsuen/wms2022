@@ -1,0 +1,5 @@
+{
+    "SERVER": "http://localhost:5000/",
+    "CLIENT": "http://localhost:3000/",
+    "SOCKETIO": "http://localhost:3333/"
+}
