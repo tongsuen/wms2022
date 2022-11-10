@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af2cadda.chunk.css",
+    "main.js": "/static/js/main.6598eb70.chunk.js",
+    "main.js.map": "/static/js/main.6598eb70.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
+    "static/js/2.5b16e7d1.chunk.js": "/static/js/2.5b16e7d1.chunk.js",
+    "static/js/2.5b16e7d1.chunk.js.map": "/static/js/2.5b16e7d1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.af2cadda.chunk.css.map": "/static/css/main.af2cadda.chunk.css.map",
+    "static/js/2.5b16e7d1.chunk.js.LICENSE.txt": "/static/js/2.5b16e7d1.chunk.js.LICENSE.txt",
+    "static/media/01.5673a89e.jpg": "/static/media/01.5673a89e.jpg",
+    "static/media/02.7acb8ed3.png": "/static/media/02.7acb8ed3.png",
+    "static/media/03.31d67d68.png": "/static/media/03.31d67d68.png",
+    "static/media/App.css": "/static/media/Rockwell_2.818aa922.ttc",
+    "static/media/dt01@1x.7c4bc2cb.png": "/static/media/dt01@1x.7c4bc2cb.png",
+    "static/media/st01.aa6dc09b.jpg": "/static/media/st01.aa6dc09b.jpg",
+    "static/media/st02.d9952a75.png": "/static/media/st02.d9952a75.png",
+    "static/media/st03.82581cca.png": "/static/media/st03.82581cca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900dd88b.js",
+    "static/js/2.5b16e7d1.chunk.js",
+    "static/css/main.af2cadda.chunk.css",
+    "static/js/main.6598eb70.chunk.js"
+  ]
+}
