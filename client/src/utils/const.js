@@ -1,8 +1,8 @@
 
   /* develop */
-  export const SERVER = "http://localhost:5000/";
+  export const SERVER = "/";
   export const CLIENT = "http://localhost:3000/";
-  export const SOCKETIO = "http://localhost:5000";
+  export const SOCKETIO = "/";
 
   /* production */
   // export const SERVER = "http://glacial-reef-62195.herokuapp.com/";
